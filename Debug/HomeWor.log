@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vadim\source\repos\homewor\homewor\source.cpp(17): warning C4930: Auto a(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+c:\users\vadim\source\repos\homewor\homewor\source.cpp(17): warning C4101: a: неиспользованная локальная переменная
+  HomeWor.vcxproj -> C:\Users\Vadim\source\repos\HomeWor\Debug\HomeWor.exe
